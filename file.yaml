@@ -1,0 +1,17 @@
+file_type: csv
+file_name: sales_data
+inbound_delimiter: ","
+columns: 
+    - product_id
+    - store_id
+    - date
+    - sales
+    - revenue
+    - stock
+    - price
+    - promo_type_1
+    - promo_bin_1
+    - promo_type_2
+    - promo_bin_2
+    - promo_discount_2
+    - promo_discount_type_2
